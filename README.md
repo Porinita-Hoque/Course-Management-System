@@ -4,8 +4,6 @@
 This SQL project is on a Course Management System, that manages all the students who are currently taking a course and also the associated teachers, books and so on. In this system, there are five tables namely Student , Teacher, Courses, Books and Department.
 </p>
 
-<br>
-
 <hr>
 
 ### Functions Implemented
@@ -19,7 +17,7 @@ This SQL project is on a Course Management System, that manages all the students
 
 <br>
 
-#### <p align="justify">The cursors will display the books and courses entities in the following formats:</p>
+#### <p align="justify">The cursors will display the books and courses entities in the following formats</p>
 
 <hr>
 
